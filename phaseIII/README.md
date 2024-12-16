@@ -42,7 +42,7 @@ The second task was creating the necessary documentation for the User Test which
 
 **Protocol**
 
-The test protocol was divided into three sections (Background, Tasks, and Conclusion) and utilized a think aloud methodology to gather information. Moderators would ask participants in the introduction to think out loud and to express any likes, dislikes, feelings, or questions that may arise during the User Test. This was in order to gather information in real time and note down any thoughts that may be lost if participants were asked for their thoughts at the end.
+The test protocol was divided into three sections (Background, Tasks, and Conclusion) and utilized a think-aloud methodology to gather information. Moderators would ask participants in the introduction to think out loud and to express any likes, dislikes, feelings, or questions that may arise during the User Test. This was in order to gather information in real-time and note down any thoughts that may be lost if participants were asked for their thoughts at the end.
 
 The participants would be asked to complete a set of three tasks each designed to gather specific information about how a user interacts with the application. For each of the tasks participants were given a verbal description of a goal that they would attempt to achieve while using the prototype. While performing this task they would follow the request to think out loud and moderators would record notes on a copy of the test protocol. Once the task was completed, or the participant could go no further, the moderator would ask the participant to rate the difficulty level of the task on a scale of 1-5  where 1 is "Very Difficult" and 5 is "Very Easy". Below is an analysis of each set of questions and the individual goals of that section.
 
@@ -75,7 +75,7 @@ Task three was created in order to have users test if they could navigate the ba
 
 **Informed Consent**
 
-In addition to the protocol an informed consent form was written that would be signed by user test participants at the start of their session. This form was created to inform participants of any risks that may arise during testing as well as what the test set to accomplish.
+In addition to the protocol, an informed consent form was written that would be signed by user test participants at the start of their session. This form was created to inform participants of any risks that may arise during testing as well as what the test set to accomplish.
 
 The third task was completing an IRB training and receiving certification for working with human subjects. This course was to inform us moderators about ethical research and data collection practices and what pitfalls to avoid during our study. 
 
@@ -85,7 +85,7 @@ Participants were gathered via recruiting volunteers from CSCI 431W
 
 **User Test Day and Data Analysis**
 
-On the day of the test participants would meet moderators in an isolated room. At the start of the session the moderator would have the participant read and sign a informed consent before beginning to go through the test protocol described above. During the test the moderators would not provide help, their main goal to be to determine how well the prototype worked for a variety of users.
+On the day of the test, participants would meet moderators in an isolated room. At the start of the session, the moderator would have the participant read and sign an informed consent before beginning to go through the test protocol described above. During the test the moderators would not provide help, their main goal was to determine how well the prototype worked for a variety of users.
 
 Once the tasks were all completed the moderators would thank the participants and send them on their way before preparing a fresh set of documents and resetting the prototype.
 
@@ -93,12 +93,12 @@ Once all user tests were completed the data was then compiled into a spreadsheet
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+The pilot testing revealed valuable insights into Stitch Niche’s functionality and user experience. Most participants appreciated the resizing feature and pointed out its value in simple pattern customization. The visualizer was frequently mentioned as a feature users wished to see implemented to provide a view of pattern adjustments. Many participants ran into unclear labels and inconsistent measurement units. They expressed a need for more helpful features, such as pop-ups or tooltips, rather than relying on a separate help menu. Participants suggest the need for the ability to upload PDFs or existing patterns and adding a feature to shared patterns and providing video tutorials. While most participants completed the tasks successfully, beginners struggled because of the limited knitting or crochet knowledge, indicating that the app would benefit from more instructional support. The lack of fully developed features and incomplete sections also contributed to confusion and frustration during testing.
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Stitch Niche application proved to be more efficient and user-friendly. The simple UI design lines up with users’ mental models, making tasks easier to complete. To improve the application further, participants recommend enhancing the visual design, adding helpful features like tooltips, and improving error messages to guide users better.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The Stitch Niche UX team’s participant pool consisted of students who lacked experience with knitting or crochet. This absence of domain knowledge may have influenced how they interacted with the app and the feedback they provided. Additionally, the UX team’s limited experience with conducting user tests could have affected the testing process. There were also the limitations of the program used to create the protocol which led to a more limited design that lacked some functionality that is seen in the final product of the Stich Niche application. 
