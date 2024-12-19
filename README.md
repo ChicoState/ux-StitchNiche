@@ -86,9 +86,31 @@ Wireframes:
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+In the third sprint, the Stitch Niche UX team focused on creating a functioning prototype that would be used in a User Test to gather information about the application’s current state and indicate if there are areas in need of change or improvement.
+
+**Artifacts**
+
+Various artifacts were created in order to lead to a successful user test guaranteeing us the most accurate and consistent data .
+
+<ins>Prototype:</ins>
+
+* Based on wireframes and mockups. 
+* High fidelity design that was used in the User Test. Demonstrated various features of the application.
+
+<ins>IRB documentation:</ins>
+ 
+* Testing protocol was drafted in order to gather consistent feedback from users. 
+* Protocol contained a list of tasks and questions for participants. 
+* Information was recorded by the moderator of the session.
+* Informed consent was drafted to inform participants of risks and what their contribution to the study entailed.
+
+**User Testing**
+
+User testing was conducted with a group of volunteers in order to gather feedback about the application. 
+
+The Stitch Niche Prototype was very well received. 
+The design was very easy for users to follow and interact with.
+User Test participants heavily desired some sort of Visualization for their patterns amongst other features discussed in the full report.
+
 
 [Full phase III report](phaseIII/)
