@@ -12,7 +12,7 @@ Stitch Niche is an application designed to assist with resizing and designing cr
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype]([#](https://www.figma.com/proto/tojPT7Kg2Wbt7JKnvdPqrX/Wireframe-for-Stich-Niche?node-id=122-2255&t=2MBXl0hjTgiCQhBR-1))
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
